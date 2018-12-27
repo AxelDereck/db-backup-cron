@@ -1,0 +1,4 @@
+2018-11-25 14:12:00 DEBUG DumpJob:42 - Target database : archimaquette
+2018-11-25 14:12:00 DEBUG DumpJob:44 - Used username : root
+2018-11-25 14:12:00 DEBUG DumpJob:46 - Using password : false
+2018-11-25 14:12:04 INFO  DumpJob:26 - MySQL Dump file generated is located at : E:\dumps\25_11_2018_14_12_00_archimaquette_database_dump.zip
